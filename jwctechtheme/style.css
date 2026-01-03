@@ -2,3 +2,7 @@
 theme name: Jwc Tech Premium Theme
 author: Jwc Tech LLC
 */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
